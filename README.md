@@ -4,7 +4,7 @@
 # ✦ STUDY JAM – HTML & CSS ✦  
 ### *pixel vibes • pastel edition*
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif](https://media.giphy.com/media/ZSGzyuNUWBSsxyPF7m/giphy.gif" width="200"/>
 
 ━━━━━━━━━━━━━━━  
 🎀 *simple • cute • clean* 🎀  
